@@ -5,11 +5,10 @@ SynthAct offers a novel approach to generating synthetic data to enhance human a
 
 ## Datasets
 
-SynthAct introduces two significant datasets:
+Our paper presents the following synthetic datasets:
 
 - **AMARV (Archive Of Motion Capture As Rendered Videos)**: Consists of over 800,000 multi-view action clips for extensive pretraining and fine-tuning with the BABEL label dataset. Due to the significant compute resources required to generate this dataset, we offer the pre-computed dataset to be downloaded. Please see the download section.
 - **Synthetic Smarthome**: Designed to mirror real-world household activities from Toyota Smarthome, supporting training models in privacy-sensitive areas. For this dataset we provide the instruction to recomputer the dataset based on the original Toyota Smarthome dataset, due to licensing. We will publish the pre-computed data in the future, given the agreement of the Toyota Smarthome license holder.
-- **NTU RGB+D**: For this dataset we provide the instruction to recomputer the dataset based on the original Toyota Smarthome dataset, due to licensing. We will publish the pre-computed data in the future, given the agreement of the Toyota Smarthome license holder.
 
 Each dataset comes with diverse modalities, including RGB videos, depth maps, and more, providing a rich dataset for varied research and application needs.
 
@@ -43,7 +42,7 @@ If SynthAct contributes to your research, please cite our work:
 ```
 
 ## Data generator
-The SynthAct data generator will be released shortly.
+The SynthAct data generator will be released shortly on this page.
 
 ## License
 

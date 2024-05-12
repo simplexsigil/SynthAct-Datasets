@@ -1,4 +1,4 @@
-# SynthAct: Synthetic Data for Human Action Recognition
+# SynthAct: Towards Generalizable Human Action Recognition based on Synthetic Data
 
 ## Introduction
 SynthAct offers a novel approach to generating synthetic data to enhance human action recognition capabilities, especially in privacy-sensitive environments like household settings. Using advanced 3D pose estimation technologies, SynthAct creates realistic and extensive datasets that significantly reduce the need for real-world data collection.
